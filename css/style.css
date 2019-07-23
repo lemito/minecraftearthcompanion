@@ -23,7 +23,6 @@ body {
 .list-item {
     border-bottom: 1px solid black;
     min-height: 360px;
-    background: rgba(0, 0, 0, 0.2);
 }
 
 
@@ -63,13 +62,14 @@ h1,h2,h3,h4,h5,h6 {
 #site-title {
     font-size: 32px;
     text-align: center;
-    line-height: 26px;
+    line-height: 28px;
     padding: 9px;
 
 }
 #site-subtitle {
     font-size: 12px;
     text-align: center;
+    padding-bottom: 2px;
 }
 p,a {
     font-family: sans-serif;
