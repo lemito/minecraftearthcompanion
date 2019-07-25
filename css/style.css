@@ -11,14 +11,7 @@ body {
     background: #111 url(img/bg_main.png);
 }
 
-.content {
-    max-width: 600px;
-    margin-left: auto;
-    margin-right: auto;
-    border-left: 1px solid black;
-    border-right: 1px solid black;
-    
-}
+
 
 .list-item {
     border-bottom: 1px solid black;
@@ -39,13 +32,13 @@ body {
 
 .list-item-title {
     padding: 5px 20px 5px 20px;
-    font-size: 24px;
+    font-size: 1.5em;
     font-weight: 800;
 }
 
 .list-item-description {
     padding: 0 20px 10px 20px;
-    font-size: 12px;
+    font-size: 1em;
 }
 
 .list-item-c2a {
