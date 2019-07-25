@@ -2,6 +2,7 @@
   margin: 0;
   padding: 0;
   color: white;
+  font-family: sans-serif;
 }
 
 
@@ -83,6 +84,9 @@ p,a {
 p {
     padding-bottom: 15px;
 }
+a {
+    color: green;
+}
 
 .back-button {
     display: block;
@@ -97,6 +101,7 @@ p {
     cursor: pointer;
 }
 .next-button {
+    color: white;
     display: block;
     position: fixed;
     bottom: 0;
@@ -109,6 +114,13 @@ p {
     cursor: pointer;
 }
 
+ul {
+    padding-bottom: 15px;
+}
+
+li {
+    list-style-position: inside;
+}
 
 /* minecraft button */
 
