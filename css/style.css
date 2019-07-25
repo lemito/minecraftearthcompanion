@@ -77,6 +77,16 @@ p {
     padding-bottom: 15px;
 }
 
+.back-button {
+    display: block;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    padding: 5px;
+    background: green;
+    font-size: 1.3em;
+}
+
 
 /* minecraft button */
 
