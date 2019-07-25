@@ -9,7 +9,7 @@
 /* content sections */
 body {
     background: #111 url(img/bg_main.png);
-    margin-bottom: 120px;
+    margin-bottom: 20px;
 }
 
 
@@ -85,7 +85,7 @@ p {
     bottom: 0;
     left: 20px;
     padding: 5px 25px;
-    margin-bottom: 70px;
+    margin-bottom: 20px;
     background: green;
     font-size: 1.3em;
     border: none;
