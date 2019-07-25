@@ -1,16 +1,14 @@
 * {
   margin: 0;
   padding: 0;
-/*  color: white;*/
-  color: black
+  color: white;
 }
 
 
 
 /* content sections */
 body {
-/*    background: #111 url(img/bg_main.png);*/
-    BACKGROUND: WHITE;
+    background: #111 url(img/bg_main.png);
     margin-bottom: 35px;
 }
 
@@ -58,8 +56,7 @@ h1,h2,h3,h4,h5,h6 {
     background: #49494a;
 }
 .header {
-/*    background: black;*/
-    background: #4db2ec;
+    background: black;
     position: fixed;
     width: 100%;
 }
@@ -72,14 +69,12 @@ h1,h2,h3,h4,h5,h6 {
     line-height: 1em;
     padding: 9px 0 2px 0;
     white-space: nowrap;
-        color: white;
 
 }
 #site-subtitle {
     font-size: 4vw;
     text-align: center;
     padding-bottom: 9px;
-        color: white;
 }
 p,a {
     font-family: sans-serif;
