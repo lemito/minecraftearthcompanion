@@ -89,6 +89,7 @@ a {
 }
 
 .back-button {
+    color: white;
     display: block;
     position: fixed;
     bottom: 0;
