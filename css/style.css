@@ -30,13 +30,13 @@ body {
     height: 180px;
     max-height: 180px;
     max-width: calc(100% - 40px);
-
 }
 
 .list-item-title {
     padding: 5px 20px 5px 20px;
     font-size: 1.6em;
     font-weight: 800;
+    line-height: 1.2em;
 }
 
 .list-item-description {
