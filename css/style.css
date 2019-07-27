@@ -89,6 +89,12 @@ a {
     color: green;
 }
 
+b {
+    background: rgba(82, 163, 204, 0.56);
+    padding: 0 2px;
+    
+}
+
 .back-button {
     color: white;
     display: block;
