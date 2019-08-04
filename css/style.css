@@ -13,13 +13,9 @@ body {
     margin-bottom: 35px;
 }
 
-
-
 .list-item {
     min-height: 360px;
 }
-
-
 
 /* texts, fonts and images */
 .list-item-image {
@@ -47,6 +43,20 @@ body {
 .list-item-c2a {
     padding: 0 20px 0 20px;
     margin-bottom: 20px;
+}
+
+.tip {
+    background: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), /* bottom, image */ url(img/bg_main.png);
+    padding: 10px 10px 0 10px;
+    margin-bottom: 20px;
+    width: calc(100% - 20px);
+}
+
+.tip h4 {
+    color: #008000;;
+}
+.tip p {
+    padding-bottom: 15px;
 }
 
 h1,h2,h3,h4,h5,h6 {
