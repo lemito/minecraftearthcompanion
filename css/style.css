@@ -122,6 +122,8 @@ b {
     font-family: 'Open Sans';
     font-weight: 600;
     font-size: 18px;
+    text-shadow: 0 2px 0 rgba(0,0,0,0.3);
+
 }
 .next-button {
     color: white;
@@ -138,7 +140,9 @@ b {
     font-family: 'Open Sans';
     font-weight: 600;
     font-size: 18px;
+    text-shadow: 0 2px 0 rgba(0,0,0,0.3);
 }
+
 
 ul {
     padding-bottom: 15px;
