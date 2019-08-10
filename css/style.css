@@ -27,7 +27,7 @@ body {
     height: 120px;
     max-height: 120px;
     max-width: calc(100% - 40px);
-    filter: drop-shadow(2px 2px 35px #000);
+    filter: drop-shadow(2px 2px 40px #000);
 }
 
 .list-item-title {
