@@ -10,7 +10,7 @@
 
 /* content sections */
 body {
-    background: #111 url(img/bg_main.png);
+    background: #111 url(img/bg_main2.png);
     margin-bottom: 60px;
 }
 
@@ -27,7 +27,7 @@ body {
     height: 120px;
     max-height: 120px;
     max-width: calc(100% - 40px);
-    filter: drop-shadow(2px 2px 25px #000);
+    filter: drop-shadow(2px 2px 35px #000);
 }
 
 .list-item-title {
@@ -49,7 +49,7 @@ body {
 }
 
 .tip {
-    background: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), /* bottom, image */ url(img/bg_main.png);
+    background: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), /* bottom, image */ url(img/bg_main.png);
     padding: 10px 10px 0 10px;
     margin-bottom: 20px;
     width: calc(100% - 20px);
