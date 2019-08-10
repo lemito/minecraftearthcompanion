@@ -11,7 +11,22 @@
 /* content sections */
 body {
     background: #111 url(img/bg_main2.png);
-    margin-bottom: 60px;
+}
+.wrapper {
+    position: relative;
+    min-height: 100vh;
+}
+.content {
+    padding-bottom: 94px;
+}
+
+footer {
+    z-index: -1;
+    height: 94px;
+    background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), /* bottom, image */ url(img/bg_bedrock.png);
+    position: absolute;
+    bottom: 0;
+    width: 100%; 
 }
 
 .list-item {
