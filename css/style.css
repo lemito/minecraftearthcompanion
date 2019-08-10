@@ -23,7 +23,7 @@ body {
 footer {
     z-index: -1;
     height: 94px;
-    background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), /* bottom, image */ url(img/bg_bedrock.png);
+    background: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), /* bottom, image */ url(img/bg_bedrock.png);
     position: absolute;
     bottom: 0;
     width: 100%; 
